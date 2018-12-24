@@ -30,7 +30,7 @@ Create controller `SitemapController.php`
 <?php
 namespace app\controllers;
 
-use \mrssoft\sitemap\Sitemap;
+use \kotmonstr\sitemap\Sitemap;
 
 class SitemapController extends \mrssoft\sitemap\SitemapController
 {
